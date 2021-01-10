@@ -1,0 +1,239 @@
+book_id	title	authors	average_rating	ratings_count	text_review	num_pages	publication	publisher	genre
+1	Harry Potter and the Half-Blood Prince	J.K. Rowling	4.57	2504799	40495	652	September 16th 2006	Scholastic Inc.	Fantasy
+2	Harry Potter and the Order of the Phoenix	J.K. Rowling	4.50	2579681	43609	870	September 2004	Scholastic Inc.	Fantasy
+3	Harry Potter and the Sorcerer's Stone	J.K. Rowling	4.48	7273748	115230	309	November 1st 2003	Scholastic Inc	Fantasy
+5	Harry Potter and the Prisoner of Azkaban	J.K. Rowling	4.57	2900083	57085	435	May 1st 2004	Scholastic Inc.	Fantasy
+6	Harry Potter and the Goblet of Fire	J.K. Rowling	4.56	2669994	47828	734	September 28th 2002	Scholastic	Fantasy
+8	Harry Potter Boxed Set, Books 1-5 (Harry Potter, #1-5)	J.K. Rowling	4.79	56405	183	2690	September 13th 2004	Scholastic	Fantasy
+10	Harry Potter Collection	J.K. Rowling	4.73	31114	967	3342	September 12th 2005	Scholastic	Fantasy
+13	The Ultimate Hitchhiker's Guide to the Galaxy	Douglas Adams	4.36	292035	5394	815	April 28th 2002	Del Rey Books	Science Fiction
+21	A Short History of Nearly Everything	Bill Bryson	4.19	308796	12631	544	September 14th 2004	Broadway Books	Nonfiction
+22	Bill Bryson's African Diary	Bill Bryson	3.45	8762	596	55	December 3rd 2002	Broadway Books	Travel
+24	In a Sunburned Country	Bill Bryson	4.07	92599	5710	335	May 15th 2001	Broadway Books	Travel
+25	I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away	Bill Bryson	3.90	59723	2913	304	June 28th 2000	Broadway Books	Nonfiction
+26	The Lost Continent: Travels in Small Town America	Bill Bryson	3.83	52695	2782	299	August 28th 1990	William Morrow Paperbacks	Travel
+27	Neither Here nor There: Travels in Europe	Bill Bryson	3.86	61645	2958	254	March 28th 1993	William Morrow Paperbacks	Travel
+28	Notes from a Small Island	Bill Bryson	3.92	96370	4322	324	May 28th 1997	William Morrow Paperbacks	Travel
+29	The Mother Tongue: English and How It Got That Way	Bill Bryson	3.92	36375	2765	270	September 28th 1991	William Morrow Paperbacks	Nonfiction
+30	J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings	J.R.R. Tolkien	4.60	112359	1813	1728	September 25th 2012	Ballantine Books	Fantasy
+33	The Lord of the Rings	J.R.R. Tolkien	4.50	578868	11771	1216	October 12th 2005	Houghton Mifflin Harcourt	Fantasy
+34	The Fellowship of the Ring	J.R.R. Tolkien	4.36	2399037	23498	398	September 5th 2003	Houghton Mifflin Harcourt	Fantasy
+50	Hatchet	Gary Paulsen	3.73	317038	14495	208	April 1st 2000	Atheneum Books for Young Readers: Richard Jackson Books	Young Adult
+58	Changeling	Delia Sherman	3.61	1061	122	256	August 17th 2006	Viking Juvenile	Fantasy
+59	The Changeling Sea	Patricia A. McKillip	4.07	4986	384	137	April 14th 2003	Firebird	Fantasy
+61	The Changeling	Zilpha Keatley Snyder	4.17	1394	136	228	June 8th 2004	iUniverse	Fiction
+67	The Known World	Edward P. Jones	3.81	37036	3284	388	August 29th 2006	Amistad	Historical
+78	Annals of the Former World	John McPhee	4.35	3610	262	720	January 6th 1999	Farrar, Straus and Giroux	Science
+79	Coming Into the Country	John McPhee	4.22	6264	311	448	April 1st 1991	Farrar, Straus and Giroux	Nonfiction
+93	Heidi	Johanna Spyri	3.99	174738	3991	352	November 15th 2002	Kingfisher	Classics
+105	Chapterhouse: Dune	Frank Herbert	3.91	47752	934	436	July 1st 1987	Ace Books	Science Fiction
+112	Children of Dune	Frank Herbert	3.94	110085	2532	408	May 15th 1987	Ace Books	Science Fiction
+117	Heretics of Dune	Frank Herbert	3.87	56127	1092	471	August 15th 1987	Ace Books	Science Fiction
+122	The Power of One	Bryce Courtenay	4.32	81013	5307	544	September 29th 1996	Ballantine Books	Fiction
+160	Tolstoy: Anna Karenina	Anthony Thorlby	4.21	1276	33	128	November 26th 1987	Cambridge University Press	Classics
+204	The Long Shadow	Cynthia Harrod-Eagles	4.12	483	21	367	June 1st 1994	Little, Brown Book Group	Historical
+208	A Shadow in Summer	Daniel Abraham	3.61	11419	773	331	March 7th 2006	Tor Books	Fantasy
+231	I am Charlotte Simmons	Tom Wolfe	3.42	25810	2035	738	August 30th 2005	Picador USA	Fiction
+245	Henry Miller on Writing	Henry Miller	4.23	1055	56	217	February 1st 1964	New Directions Publishing	Language
+246	The Colossus of Maroussi	Henry Miller	3.99	3518	302	244	January 17th 1975	New Directions	Travel
+247	Quiet Days in Clichy	Henry Miller	3.68	4487	259	154	January 13th 1994	Grove Press	Fiction
+248	Big Sur and the Oranges of Hieronymus Bosch	Henry Miller	4.02	2722	161	400	January 17th 1957	New Directions	Fiction
+249	Tropic of Cancer	Henry Miller	3.67	66203	3331	318	January 6th 1994	Grove Press	Fiction
+250	Tropic of Capricorn	Henry Miller	3.78	17978	678	348	January 13th 1994	Grove Press	Fiction
+252	Sexus	Henry Miller	3.97	8855	358	506	January 12th 1994	Grove Press	Fiction
+253	The Air-Conditioned Nightmare	Henry Miller	3.83	3002	181	292	January 17th 1970	New Directions	Fiction
+264	The Portrait of a Lady	Henry James	3.77	74212	2876	797	September 30th 2003	Penguin Classics	Classics
+275	The Lover	Marguerite Duras	3.74	37285	2742	117	September 8th 1998	Pantheon Books	Fiction
+278	The War	Marguerite Duras	3.85	2354	176	192	August 1st 1994	The New Press	Nonfiction
+290	Jesus the Son of Man	Kahlil Gibran	3.99	2294	204	216	February 21st 1995	Knopf	Religion
+291	The Broken Wings	Kahlil Gibran	3.93	17262	2103	132	March 3rd 2003	Citadel	Poetry
+295	Treasure Island	Robert Louis Stevenson	3.83	410068	11996	311	September 15th 2001	Kingfisher	Classics
+304	Daniel Deronda	George Eliot	3.85	23434	1001	796	2002	Modern Library	Classics
+320	One Hundred Years of Solitude	Gabriel García Márquez	4.08	769639	31411	417	June 24th 2003	Harper	Fiction
+327	Why Zebras Don't Get Ulcers	Robert M. Sapolsky	4.17	9195	801	560	September 15th 2004	Holt Paperbacks	Nonfiction
+343	Perfume: The Story of a Murderer	Patrick Süskind	4.02	340892	14875	263	1987	Penguin Books	Fiction
+348	The Door Into Summer	Robert A. Heinlein	4.01	23036	1144	304	June 17th 1997	Del Rey	Science Fiction
+350	Stranger in a Strange Land	Robert A. Heinlein	3.92	278875	8178	525	October 1st 1991	Ace	Science Fiction
+351	Starman Jones	Robert A. Heinlein	3.85	7617	304	272	April 19th 2005	Pocket Books	Science Fiction
+352	The Notebooks of Lazarus Long	Robert A. Heinlein	4.07	3605	40	56	August 3rd 2004	Baen	Science Fiction
+353	Time Enough for Love	Robert A. Heinlein	3.97	32707	845	589	August 15th 1988	Ace	Science Fiction
+354	To Sail Beyond the Sunset	Robert A. Heinlein	3.87	10685	221	434	June 1st 1988	Ace Books	Science Fiction
+355	Job: A Comedy of Justice	Robert A. Heinlein	3.78	16839	510	439	October 12th 1985	Del Rey	Science Fiction
+357	The Long Dark Tea-Time of the Soul	Douglas Adams	4.04	81368	1907	307	February 15th 1991	Pocket Books	Fiction
+359	The Salmon of Doubt	Douglas Adams	3.93	26371	1008	298	April 26th 2005	Del Rey	Science Fiction
+362	Wish You Were Here: The Official Biography of Douglas Adams	Nick  Webb	4.14	2823	68	368	December 27th 2005	Del Rey	Biography
+365	Dirk Gently's Holistic Detective Agency	Douglas Adams	3.97	124401	3526	306	January 1st 2002	Pocket Books	Science Fiction
+378	The Phantom Tollbooth	Norton Juster	4.18	251120	10545	256	1996	Random House Bullseye Books	Fantasy
+385	On Bullshit	Harry G. Frankfurt	3.58	11005	1184	74	January 30th 2005	Princeton University Press	Philosophy
+386	Another Bullshit Night in Suck City	Nick Flynn	3.79	10344	975	347	September 12th 2005	W. W. Norton & Company	Autobiography
+400	Libra	Don DeLillo	3.99	14329	867	480	May 1st 1991	Penguin	Fiction
+402	Mao II	Don DeLillo	3.68	10016	593	254	1992	Penguin Books	Fiction
+408	The Names	Don DeLillo	3.64	3769	287	339	July 17th 1989	Vintage	Fiction
+409	Against the Day	Thomas Pynchon	3.97	8151	817	1085	November 21st 2006	Penguin Press	Fiction
+413	Mason & Dixon	Thomas Pynchon	4.08	9440	811	773	January 3rd 2004	Picador USA	Fiction
+415	Gravity's Rainbow	Thomas Pynchon	3.96	39746	3259	776	October 31st 2006	Penguin Books	Fiction
+418	Been Down So Long It Looks Like Up To Me	Richard Fariña	3.80	2900	272	352	August 29th 1996	Penguin Classics	Fiction
+421	The White Album	Joan Didion	4.15	17585	1272	222	October 1st 1990	Farrar Straus Giroux	Writing
+424	Slouching Towards Bethlehem	Joan Didion	4.19	38478	2887	238	October 1st 1990	Farrar Straus Giroux	Nonfiction
+428	Play It As It Lays	Joan Didion	3.88	29832	2270	231	November 15th 2005	Farrar, Straus and Giroux	Fiction
+431	The New York Trilogy	Paul Auster	3.87	63791	3381	308	March 28th 2006	Penguin Classics	Fiction
+432	City of Glass	Paul Auster	3.79	15462	995	203	April 7th 1987	Penguin Books	Fiction
+435	The Locked Room	Paul Auster	3.89	4050	238	179	November 1st 1986	Sun and Moon Press	Fiction
+446	The Brooklyn Follies	Paul Auster	3.84	23555	1693	306	October 17th 2006	Picador	Fiction
+447	Moon Palace	Paul Auster	3.95	21168	958	320	April 1st 1990	Penguin Books	Fiction
+449	Timbuktu	Paul Auster	3.69	12557	1033	181	May 2000	Picador	Fiction
+454	Travels in the Scriptorium	Paul Auster	3.24	9202	918	145	January 23rd 2007	Henry Holt & Company	Fiction
+456	Leviathan	Paul Auster	3.96	15423	737	275	September 1st 1993	Penguin Books	Fiction
+463	The Red Notebook: True Stories	Paul Auster	3.78	4045	297	104	June 17th 2002	New Directions	Nonfiction
+475	Collapse: How Societies Choose to Fail or Succeed	Jared Diamond	3.92	63292	3363	608	December 27th 2005	Penguin Books Ltd. (London)	History
+477	Collapse of Complex Societies	Joseph A. Tainter	4.16	906	109	262	March 29th 1990	Cambridge University Press	History
+493	My Inventions	Nikola Tesla	3.85	7981	532	88	May 17th 2006	Filiquarian Publishing, LLC.	Biography
+509	The Invention of Love	Tom Stoppard	4.02	1778	109	112	August 10th 1998	Grove Press	Plays
+597	Killing Yourself to Live: 85% of a True Story	Chuck Klosterman	3.81	27662	1231	245	June 13th 2006	Scribner	Nonfiction
+599	Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto	Chuck Klosterman	3.73	67872	3525	272	July 2nd 2004	Scribner	Nonfiction
+629	Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values	Robert M. Pirsig	3.77	205496	8781	540	April 25th 2006	HarperTorch	Philosophy
+647	No Logo	Naomi Klein	3.88	28014	1021	528	April 6th 2002	Picador	Nonfiction
+654	Great Short Works of Leo Tolstoy	Leo Tolstoy	4.31	2452	85	720	March 2nd 2004	Harper Perennial Modern Classics	Fiction
+655	The Death of Ivan Ilych and Other Stories	Leo Tolstoy	4.11	11851	699	304	April 1st 2003	Signet Classics	Fiction
+656	War and Peace	Leo Tolstoy	4.12	270297	11932	1392	June 25th 1998	Oxford University Press	Classics
+658	The Kingdom of God Is Within You	Leo Tolstoy	4.11	3630	332	352	September 8th 2006	Dover Publications	Philosophy
+662	Atlas Shrugged	Ayn Rand	3.69	357909	17578	1168	August 1st 1999	Plume	Classics
+665	The Virtue of Selfishness: A New Concept of Egoism	Ayn Rand	3.51	12713	592	176	November 1st 1964	Signet	Philosophy
+667	Anthem	Ayn Rand	3.63	133277	9294	105	December 1st 1999	NAL	Fiction
+668	We the Living	Ayn Rand	3.92	26320	1379	464	January 1st 1996	Signet	Fiction
+669	Capitalism: The Unknown Ideal	Ayn Rand	3.89	3865	187	340	July 15th 1986	Signet	Philosophy
+676	Sailing Alone Around the Room: New and Selected Poems	Billy Collins	4.23	12898	694	172	September 17th 2002	Random House Trade Paperbacks	Poetry
+682	More Natural Cures Revealed	Kevin Trudeau	3.40	394	53	358	May 9th 2006	Vanguard Press	Health
+685	The Natural	Bernard Malamud	3.63	10167	833	231	July 7th 2003	Farrar Straus Giroux	Fiction
+698	Digging to America	Anne Tyler	3.56	20217	2264	277	May 2nd 2006	Alfred A. Knopf	Fiction
+703	The Plot Against America	Philip Roth	3.77	51665	4239	391	September 27th 2005	Vintage International	Fiction
+706	America (The Book): A Citizen's Guide to Democracy Inaction	Jon   Stewart	4.01	91288	1424	228	2004	Allen Lane	Humor
+760	Memories of My Melancholy Whores	Gabriel García Márquez	3.60	70141	4299	115	November 2006	Vintage International	Fiction
+771	The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory	Brian Greene	4.07	88112	2070	425	September 2nd 2004	Vintage Books USA	Science
+816	Cryptonomicon	Neal Stephenson	4.24	100270	5363	1139	November 5th 2002	Avon	Fiction
+822	The Confusion	Neal Stephenson	4.26	22332	720	815	June 14th 2005	William Morrow Paperbacks	Fiction
+823	Quicksilver	Neal Stephenson	3.89	38321	2119	927	September 21st 2004	HarperCollins Perennial	Fiction
+827	The Diamond Age: Or, a Young Lady's Illustrated Primer	Neal Stephenson	4.16	85245	3485	499	May 2nd 2000	Spectra	Science Fiction
+835	Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments, Volume I: Strategic Play	Dan Harrington	4.24	2201	80	381	December 1st 2004	Two Plus Two Publishing LLC	Nonfiction
+840	The Design of Everyday Things	Donald A. Norman	4.16	30445	2185	240	September 19th 2002	Basic Books	Design
+865	The Alchemist	Paulo Coelho	3.88	2172324	82653	197	May 1st 1993	HarperCollins	Fiction
+868	Fullmetal Alchemist, Vol. 3	Hiromu Arakawa	4.56	18790	372	192	September 13th 2005	VIZ Media LLC	Sequential Art
+870	Fullmetal Alchemist, Vol. 1	Hiromu Arakawa	4.50	123622	1713	192	May 3rd 2005	VIZ Media LLC	Sequential Art
+871	Fullmetal Alchemist, Vol. 4	Hiromu Arakawa	4.55	12173	376	192	November 15th 2005	VIZ Media LLC	Sequential Art
+873	Fullmetal Alchemist, Vol. 2	Hiromu Arakawa	4.52	16728	533	192	July 5th 2005	VIZ Media LLC	Sequential Art
+880	Pompeii	Robert   Harris	3.82	36525	2492	274	November 8th 2005	Random House Trade Paperbacks	Historical
+890	Of Mice and Men	John Steinbeck	3.88	1983736	35138	103	January 8th 2002	Penguin Books	Classics
+900	The Game: Penetrating the Secret Society of Pickup Artists	Neil Strauss	3.74	26255	1927	464	September 6th 2005	It Books	Nonfiction
+902	The Westing Game	Ellen Raskin	4.01	171012	10861	182	April 12th 2004	Puffin	Mystery
+903	The Egypt Game	Zilpha Keatley Snyder	3.81	34216	1491	215	July 7th 2009	Turtleback Books	Fiction
+905	The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance	W. Timothy Gallwey	4.23	10533	892	134	May 27th 1997	Random House Trade Paperbacks	Nonfiction
+925	A Clean Kill in Tokyo	Barry Eisler	3.96	18170	911	363	July 1st 2002	Barry Eisler	Thriller
+929	Memoirs of a Geisha	Arthur Golden	4.12	1743494	30428	503	November 22nd 2005	Vintage Books USA	Fiction
+960	Angels & Demons	Dan Brown	3.91	2729740	29445	736	April 1st 2006	Pocket Books	Fiction
+968	The Da Vinci Code	Dan Brown	3.86	1972298	47641	489	March 28th 2006	Anchor	Fiction
+976	Deception Point	Dan Brown	3.72	601709	9601	556	December 2002	Pocket Books	Fiction
+998	The Millionaire Next Door: The Surprising Secrets of America's Wealthy	Thomas J. Stanley	4.04	79207	3489	258	October 1st 1998	Gallery Books	Economics
+1031	Trump: Think Like a Billionaire: Everything You Need to Know About Success, Real Estate, and Life	Donald J. Trump	3.65	1873	127	288	September 27th 2005	Ballantine Books	Business
+1032	Trump: The Art of the Deal	Donald J. Trump	3.66	16916	1300	384	December 28th 2004	Ballantine Books	Business
+1035	Trump: How to Get Rich	Donald J. Trump	3.36	2443	197	320	December 28th 2004	Ballantine Books	Business
+1052	The Richest Man in Babylon	George S. Clason	4.27	116736	6318	194	February 1st 2008	Berkley Books	Economics
+1059	Shibumi	Trevanian	4.21	14078	930	480	May 10th 2005	Broadway Books	Fiction
+1067	1776	David McCullough	4.07	192457	7368	386	July 4th 2006	Simon  Schuster	History
+1078	The Good Earth	Pearl S. Buck	3.99	225473	10014	418	March 4th 2009	Howard Publishing Co	Classics
+1097	Fast Food Nation: The Dark Side of the All-American Meal	Eric Schlosser	3.74	200142	5433	399	July 5th 2005	Harper Perennial	Nonfiction
+1110	The Broker	John Grisham	3.79	84607	2951	422	September 26th 2006	Delta	Fiction
+1111	The Power Broker: Robert Moses and the Fall of New York	Robert A. Caro	4.39	15346	1547	1246	July 12th 1975	Vintage Books	History
+1171	Liar's Poker	Michael   Lewis	4.15	83413	2303	256	October 1st 1990	Penguin Books	Nonfiction
+1202	Freakonomics: A Rogue Economist Explores the Hidden Side of Everything	Steven D. Levitt	3.98	725398	16504	320	October 17th 2006	William Morrow	Nonfiction
+1232	The Shadow of the Wind	Carlos Ruiz Zafón	4.27	478647	36795	487	2005	Penguin Books	Fiction
+1241	A Million Little Pieces	James Frey	3.65	227316	11777	515	September 22nd 2005	Anchor Books	Fiction
+1274	Men Are from Mars, Women Are from Venus	John Gray	3.56	167891	5983	368	April 3rd 2012	Harper Paperbacks	Nonfiction
+1300	The Bad Guys Won!	Jeff Pearlman	4.04	3959	241	304	April 26th 2005	Harper Perennial	Sports
+1301	Moneyball: The Art of Winning an Unfair Game	Michael   Lewis	4.25	104549	5065	317	March 17th 2004	W. W. Norton  Company	Nonfiction
+1303	The 48 Laws of Power	Robert Greene	4.15	83363	4276	452	September 1st 2000	Penguin (Business)	Nonfiction
+1305	Gates of Fire	Steven Pressfield	4.40	30000	2155	392	September 27th 2005	Bantam	Historical
+1307	Fire Sea	Margaret Weis	4.07	17896	233	414	March 1st 1992	Spectra Books	Fantasy
+1316	The Virtues of War: A Novel of Alexander the Great	Steven Pressfield	3.98	5065	284	368	September 27th 2005	Bantam	Historical
+1317	Tides of War	Steven Pressfield	3.90	4163	207	448	August 28th 2001	Bantam	Historical
+1318	Last of the Amazons	Steven Pressfield	3.76	2712	186	400	July 1st 2003	Bantam	Historical
+1319	The War of Art: Break Through the Blocks & Win Your Inner Creative Battles	Steven Pressfield	4.00	75616	6088	168	April 1st 2003	Warner Books	Nonfiction
+1354	Gorgias	Plato	3.96	10084	352	208	January 29th 2004	Penguin Classics	Philosophy
+1362	The Histories	Herodotus	3.98	42921	1249	716	January 30th 2003	Penguin Books	History
+1371	The Iliad	Homer	3.87	359508	7468	683	April 29th 1999	Penguin Classics	Classics
+1375	The Iliad/The Odyssey	Homer	4.05	64007	782	1556	November 1st 1999	Penguin Classics	Classics
+1381	The Odyssey	Homer	3.77	876837	12608	541	November 30th 2006	Penguin Classics	Classics
+1414	The Riverside Shakespeare	William Shakespeare	4.55	4265	201	2057	1997	Houghton Mifflin Co.	Classics
+1420	Hamlet	William Shakespeare	4.03	745479	13145	289	August 1st 2005	Cambridge University Press	Classics
+1423	The Compleat Works of Wllm Shkspr (abridged)	Reduced Shakespeare Company	4.45	8511	130	137	February 1st 1994	Applause Books	Plays
+1426	Warrior of the Light	Paulo Coelho	3.69	31583	1570	142	March 30th 2004	HarperOne	Fiction
+1427	The Zahir	Paulo Coelho	3.58	69920	3360	336	July 3rd 2006	HarperOne	Fiction
+1428	By the River Piedra I Sat Down and Wept	Paulo Coelho	3.57	88614	3833	208	May 23rd 2006	HarperOne	Fiction
+1429	The Fifth Mountain	Paulo Coelho	3.62	39077	1585	256	April 26th 2000	HarperOne	Fiction
+1430	Eleven Minutes	Paulo Coelho	3.70	151121	6903	273	2003	HarperOne	Fiction
+1431	Veronika Decides to Die	Paulo Coelho	3.71	178698	8239	210	June 1st 2006	Harper Perennial	Fiction
+1467	Ten Plays	Euripides	4.17	1827	60	432	August 1st 1990	Bantam Classics	Classics
+1473	Medea and Other Plays	Euripides	4.04	14449	243	206	March 27th 2003	Penguin Books	Classics
+1496	Iphigenia in Aulis	Euripides	4.03	3683	116	69	September 25th 1997	Ivan R. Dee Publisher	Plays
+1519	The Oresteia: Agamemnon, The Libation Bearers, The Eumenides	Aeschylus	4.02	35259	1127	335	February 7th 1984	Penguin Classics	Classics
+1523	Prometheus Bound and Other Plays	Aeschylus	4.10	5613	178	160	August 28th 2003	Penguin Books	Classics
+1538	The Complete Plays	Sophocles	4.27	4155	136	420	March 1st 2001	New American Library	Classics
+1540	The Oedipus Cycle: Oedipus Rex, Oedipus at Colonus, Antigone	Sophocles	3.98	58411	1730	259	November 1st 2002	Mariner Books	Classics
+1554	Oedipus Rex	Sophocles	3.71	173782	3449	75	June 22nd 2006	Prestwick House - (Literary Touchstone Classic)	Classics
+1562	The Complete Plays	Aristophanes	4.21	2325	73	577	March 1st 1984	Bantam Classics	Classics
+1567	Lysistrata and Other Plays	Aristophanes	3.96	4047	135	241	January 30th 2003	Penguin Classics	Classics
+1591	Lysistrata	Aristophanes	3.86	35572	980	132	March 1st 2003	Hackett Publishing Company, Inc.	Plays
+1617	Night	Elie Wiesel	4.34	992240	29666	115	January 16th 2006	Hill & Wang	Nonfiction
+1618	The Curious Incident of the Dog in the Night-Time	Mark Haddon	3.89	1218392	44719	226	May 18th 2004	Vintage	Fiction
+1622	A Midsummer Night's Dream	William Shakespeare	3.95	449287	8270	240	July 2016	Simon & Schuster Paperbacks	Classics
+1624	West with the Night	Beryl Markham	4.14	31858	3129	294	January 1st 1983	North Point Press	Nonfiction
+1625	Twelfth Night	William Shakespeare	3.98	157220	3832	272	July 1st 2004	Simon Schuster	Classics
+1627	Brokeback Mountain	Annie Proulx	3.95	30827	2493	55	December 2nd 2005	Scribner	Fiction
+1633	Getting Things Done: The Art of Stress-Free Productivity	David    Allen	3.98	132499	5213	267	December 31st 2002	Penguin Group	Nonfiction
+1663	Adjusting Sights	Haim Sabato	4.09	140	17	154	October 1st 2006	Toby Press	Cultural
+1677	Sobre héroes y tumbas	Ernesto Sabato	4.27	9187	423	547	October 28th 1999	Sudamericana	Fiction
+1715	Metamorphoses	Ovid	4.06	58940	1644	723	August 3rd 2004	Penguin	Classics
+1814	2012: The Return of Quetzalcoatl	Daniel Pinchbeck	3.42	1709	282	408	May 4th 2006	Tarcher	Nonfiction
+1815	Breaking Open the Head: A Psychedelic Journey Into the Heart of Contemporary Shamanism	Daniel Pinchbeck	4.06	3125	182	336	August 12th 2003	Crown Publishing Group (NY)	Nonfiction
+1842	Guns, Germs, and Steel: The Fates of Human Societies	Jared Diamond	4.03	312638	11278	425	2005	W.W. Norton & Company	History
+1845	Into the Wild	Jon Krakauer	3.99	898608	22056	207	January 20th 1997	Anchor Books	Nonfiction
+1846	Wild at Heart: Discovering the Secret of a Man's Soul	John Eldredge	3.92	69238	2105	256	April 1st 2001	Thomas Nelson	Christian
+1848	Wild Swans: Three Daughters of China	Jung Chang	4.25	94351	5808	562	August 12th 2003	Simon  Schuster	Nonfiction
+1849	Wild Fire	Nelson DeMille	4.02	24313	1148	519	November 6th 2006	Warner Books (NY)	Fiction
+1852	The Call of the Wild	Jack London	3.88	349719	11369	172	January 1st 2001	Scholastic	Classics
+1869	Nickel and Dimed: On (Not) Getting by in America	Barbara Ehrenreich	3.63	180443	6531	240	May 1st 2002	Owl Books (Henry Holt)	Nonfiction
+1875	The History of Sexuality, Volume 1: An Introduction	Michel Foucault	4.04	18520	810	176	1990	Vintage	Philosophy
+1876	The History of Sexuality, Volume 3: The Care of the Self	Michel Foucault	4.05	2192	70	288	1988	Vintage	Philosophy
+1878	The History of Sexuality, Volume 2: The Use of Pleasure	Michel Foucault	4.07	3486	110	304	1990	Vintage	Philosophy
+1885	Pride and Prejudice	Jane Austen	4.27	3084875	69349	279	October 10th 2000	Modern Library	Classics
+1898	Into Thin Air: A Personal Account of the Mount Everest Disaster	Jon Krakauer	4.18	404782	13963	368	October 19th 1999	Anchor Books	Nonfiction
+1911	The World Is Flat: A Brief History of the Twenty-first Century	Thomas L. Friedman	3.68	98691	3593	593	April 18th 2006	Farrar, Straus and Giroux (NY)	Nonfiction
+1934	Little Women	Louisa May Alcott	4.09	1714509	31094	449	April 6th 2004	Signet Classics	Classics
+1946	Little Women, Little Men, Jo's Boys	Louisa May Alcott	4.34	6060	281	1064	February 17th 2005	Library of America	Classics
+1953	A Tale of Two Cities	Charles Dickens	3.85	821517	17828	489	2003	Penguin Books	Classics
+1976	Den of Thieves	Julia Golding	4.21	1697	85	416	January 31st 2007	Egmont Books Ltd	Historical
+1978	The Voice of Reason: Essays in Objectivist Thought	Ayn Rand	4.11	789	34	368	June 30th 1990	NAL	Philosophy
+1981	The Art of Fiction: A Guide for Writers and Readers	Ayn Rand	4.01	782	88	192	January 1st 2000	New American Library	Language
+1990	Martin Chuzzlewit	Charles Dickens	3.83	14851	645	830	November 25th 1999	Penguin Classics	Classics
+2002	Harry Potter Schoolbooks Box Set: Two Classic Books from the Library of Hogwarts School of Witchcraft and Wizardry	J.K. Rowling	4.39	12830	187	240	November 1st 2001	Arthur A. Levine	Fantasy
+2011	The Dosadi Experiment	Frank Herbert	3.82	6913	206	320	September 16th 2002	Tor Books	Science Fiction
+2013	The Jesus Incident	Frank Herbert	3.72	5017	157	432	October 15th 1987	Ace	Science Fiction
+2017	Solomon's Gold	Neal Stephenson	4.33	972	35	448	October 2006	HarperTorch	Historical
+2028	Assembly of Women (Literary Classics)	Aristophanes	3.75	913	56	124	April 1st 1997	Prometheus Books	Plays
+2049	The High Window	Raymond Chandler	4.07	18591	844	265	August 12th 1992	Vintage Crime/Black Lizard	Mystery
+2050	Farewell, My Lovely	Raymond Chandler	4.13	32686	1747	292	August 1992	Vintage Crime/Black Lizard	Mystery
+2052	The Big Sleep	Raymond Chandler	3.98	130523	5838	231	July 12th 1988	Vintage Crime	Mystery
+2054	The Long Goodbye	Raymond Chandler	4.20	34718	2160	379	August 12th 1988	Vintage Crime/Black Lizard	Mystery
+2067	Breaking the Spell: Religion as a Natural Phenomenon	Daniel C. Dennett	3.89	11664	467	448	February 24th 2006	Viking Books	Philosophy
+2068	Darwin's Dangerous Idea: Evolution and the Meanings of Li2094	A Briefer History of Time	Stephen Hawking	4.23	31274	1327	176	September 27th 2005	Bantam	Science
+2095	The Universe in a Nutshell	Stephen Hawking	4.17	35513	1007	216	November 6th 2001	Bantam	Science
+2096	God Created the Integers: The Mathematical Breakthroughs That Changed History	Stephen Hawking	4.07	1879	67	1160	October 4th 2005	Running Press Book Publishers	Science
+2103	The Nature of Space and Time	Stephen Hawking	4.10	1200	56	152	October 8th 2000	Princeton University Press	Science
+2104	The Physics of Star Trek	Lawrence M. Krauss	3.84	5713	275	188	August 16th 1996	ReganBooks	Science
+2115	Atlas Shrugged & The Fountainhead	Ayn Rand	4.10	4562	214	0	September 1st 1997	New American Library	Fiction
+2122	The Fountainhead	Ayn Rand	3.87	300012	12281	704	September 1st 1996	Signet Book	Fiction
+2136	Specimen Days	Michael Cunningham	3.58	5545	587	336	April 18th 2006	Picador USA	Fiction
+2137	A Home at the End of the World	Michael Cunningham	3.92	18098	966	342	July 1st 2004	Picador	Fiction
+2139	Flesh and Blood	Michael Cunningham	4.02	5253	396	465	May 22nd 1996	Touchstone	Fiction
+2141	In the Blink of an Eye: A Perspective on Film Editing	Walter Murch	4.24	5277	322	148	August 1st 2001	Silman-James Press	Culture
+2142	Blink	Ted Dekker	4.17	16033	819	400	October 11th 2004	Thomas Nelson	Christian Fiction
+2152	The Jane Austen Book Club	Karen Joy Fowler	3.12	68061	4524	288	April 26th 2005	G.P. Putnam's Sons	Fiction
