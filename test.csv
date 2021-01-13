@@ -1,0 +1,309 @@
+book_id	title	authors	average_rating	ratings_count	text_review	num_pages	publication	publisher	genre
+104700	Self Analysis	L. Ron Hubbard	3.80	283	32	336	October 28th 1992	Bridge Publications, Inc.	Self Help
+104734	The Vagina Monologues	Eve Ensler	3.88	29572	2125	185	May 3rd 2001	Virago Press Ltd.	Feminism
+104737	A Monstrous Regiment of Women	Laurie R. King	4.03	22391	1769	336	2000	HarperCollins	Mystery
+104739	A Grave Talent	Laurie R. King	3.93	6497	482	342	June 1st 1995	Crimeline	Mystery
+104790	All's Well That Ends Well	William Shakespeare	3.64	14088	638	336	January 1st 2006	Simon  Schuster	Classics
+104837	Antony and Cleopatra	William Shakespeare	3.70	30740	1305	336	2005	Washington Square Press	Classics
+104898	I Am One of You Forever	Fred Chappell	4.11	1297	130	184	July 1st 1987	Louisiana State University Press	Fiction
+104946	We Make the Road by Walking: Conversations on Education and Social Change	Myles Horton	4.35	832	81	296	December 28th 1990	Temple University Press	Education
+104979	Journey of Souls: Case Studies of Life Between Lives	Michael   Newton	4.26	13159	839	278	September 8th 2002	Llewellyn Publications	Spirituality
+105021	The Millstone	Margaret Drabble	3.84	2561	202	192	October 15th 1998	Mariner Books	Fiction
+105040	The Radiant Way	Margaret Drabble	3.76	1032	87	396	January 1st 2005	Penguin Books	Fiction
+105099	Effective Java : Programming Language Guide	Joshua Bloch	4.50	6774	361	272	June 15th 2001	Addison-Wesley	Computer Science
+105146	Differentiate or Die: Survival in Our Era of Killer Competition	Jack Trout	4.07	1413	63	240	October 1st 2001	John Wiley & Sons	Business
+105202	The New Rulers of the World	John Pilger	4.12	1095	75	256	April 17th 2003	Verso	Politics
+105228	Napoleon Hill's Keys to Success: The 17 Principles of Personal Achievement	Napoleon Hill	4.30	2222	79	256	October 1st 1997	TarcherPerigee	Self Help
+105232	Law of Success	Napoleon Hill	4.39	9695	308	1035	June 26th 2004	High Roads Media	Self Help
+105298	Last Drinks	Andrew McGahan	3.87	407	36	377	2000	Allen Unwin	Fiction
+105299	The White Earth	Andrew McGahan	3.72	1561	146	384	January 1st 2007	Soho Press	Fiction
+105301	Sarah	J.T. LeRoy	3.47	3831	299	160	June 9th 2001	Bloomsbury USA	Fiction
+105303	The Misadventures of Maude March	Audrey Couloumbis	3.85	1620	231	320	January 23rd 2007	Yearling	Historical
+105373	The Long Firm	Jake Arnott	3.87	1585	104	343	2000	Sceptre	Fiction
+105399	Vipers' Tangle	François Mauriac	4.05	2360	205	312	September 1st 2005	Loyola Classics	Fiction
+105423	The Feel of Forever	Lyn Denison	3.65	99	7	181	October 2006	Bella Books	GLBT
+105435	Halfway to Forever	Karen Kingsbury	4.45	3743	102	344	April 2nd 2002	Multnomah Books	Christian Fiction
+105490	Fool's Puzzle	Earlene Fowler	3.96	5068	244	256	January 1st 1995	Berkley	Mystery
+105548	The Foot Book: Dr. Seuss's Wacky Book of Opposites	Dr. Seuss	4.01	29486	1008	24	November 26th 1996	Random House Books for Young Readers	Childrens
+105549	The Sneetches and Other Stories	Dr. Seuss	4.29	64333	1017	65	May 1st 2003	HarperCollins Publishers	Childrens
+105550	Six by Seuss	Dr. Seuss	4.48	1689	72	352	July 20th 1991	Random House Books for Young Readers	Childrens
+105551	Fox in Socks	Dr. Seuss	4.07	57087	1506	64	May 6th 2003	Green Back Books / HarperCollins Children's Books	Childrens
+105552	Mr. Brown Can Moo! Can You?	Dr. Seuss	4.10	49508	846	32	August 4th 2003	Harpercollins Childs	Childrens
+105571	Endymion Spring	Matthew Skelton	3.59	4292	369	400	August 22nd 2006	Delacorte Books for Young Readers	Fantasy
+105574	Scandal in Spring	Lisa Kleypas	4.03	38529	1937	374	July 25th 2006	Avon	Romance
+105576	Five Point Someone: What Not to Do at IIT	Chetan Bhagat	3.43	83581	2253	267	January 1st 2011	Rupa Publications	Fiction
+105578	One Night at the Call Center	Chetan Bhagat	2.51	54727	1617	320	May 1st 2007	Ballantine Books	Fiction
+105599	Forever a Hustler's Wife	Nikki Turner	4.46	2955	56	267	April 10th 2007	One World/Ballantine	Cultural
+105612	Forever and Always	Jude Deveraux	3.82	3811	96	330	August 26th 2003	Pocket Books	Romance
+105638	Lost In Place: Growing Up Absurd in Suburbia	Mark Salzman	3.88	992	107	288	May 28th 1996	Vintage	Autobiography
+105639	Prince Of Lost Places	Kathy Hepinstall	3.65	176	28	256	January 6th 2004	Berkley	Fiction
+105648	Smart Boys & Fast Girls	Stephie Davis	3.76	1184	67	178	September 1st 2005	Leisure Books	Young Adult
+105657	Beyond the Deepwoods	Paul Stewart	4.06	13856	860	288	August 1st 2006	Corgi Books	Fantasy
+105687	All Souls: A Family Story from Southie	Michael Patrick MacDonald	4.09	11167	848	263	October 3rd 2000	Ballantine Books	Nonfiction
+105703	Pride of Baghdad	Brian K. Vaughan	3.89	22190	1645	136	September 13th 2006	Vertigo	Sequential Art
+105704	The Big Sleep / Farewell, My Lovely	Raymond Chandler	4.25	836	58	544	May 2nd 1995	Modern Library	Fiction
+105711	The Big Sleep  and Other Novels	Raymond Chandler	4.32	2995	68	672	February 3rd 2000	Penguin	Fiction
+105742	The Loch	Steve Alten	3.88	4954	461	541	April 1st 2006	Tsunami Books	Horror
+105744	Meg	Steve Alten	3.75	18071	1566	438	September 1st 2005	Tsunami Books	Horror
+105748	The Shotgun Rule	Charlie Huston	3.95	2218	158	248	August 28th 2007	Ballantine Books	Fiction
+105760	Zodiac	Robert Graysmith	3.92	21269	827	337	April 1st 1987	Berkley	Crime
+105920	Ultimate Spider-Man, Volume 1: Power and Responsibility	Brian Michael Bendis	4.12	14536	409	184	May 16th 2007	Marvel	Sequential Art
+105989	How to Talk Dirty and Influence People	Lenny Bruce	3.99	2218	199	188	May 1st 1992	Touchstone Books	Nonfiction
+105992	Helter Skelter: The True Story of the Manson Murders	Vincent Bugliosi	4.04	127902	4098	689	December 17th 2001	W. W. Norton  Company	Crime
+105999	Dear Mr. Henshaw	Beverly Cleary	3.74	37552	1594	134	May 31st 2000	HarperTrophy	Childrens
+106025	Murphy's Boy	Torey L. Hayden	4.15	4577	205	336	December 1st 1983	Avon	Nonfiction
+106041	Captain America: Winter Soldier, Volume 2	Ed Brubaker	4.29	5033	142	136	October 25th 2006	Marvel	Sequential Art
+106069	Batman: The Long Halloween	Jeph Loeb	4.32	78116	2413	376	November 1st 1999	DC Comics	Sequential Art
+106076	Batman: Dark Victory	Jeph Loeb	4.13	27771	806	391	October 1st 2002	DC Comics	Sequential Art
+106083	Blue Blood, True Blood: Conflict and Creation	Stewart A. Swerdlow	4.00	88	7	256	November 1st 2011	Expansions Publishing Co Inc.,U.S.	Pseudoscience
+106085	Masquerade	Melissa de la Cruz	3.90	88414	2186	307	May 1st 2007	Hyperion	Young Adult
+106096	Death on the Installment Plan	Louis-Ferdinand Céline	4.22	7021	454	592	January 17th 1971	New Directions	Fiction
+106123	Three Tall Women	Edward Albee	3.91	2577	113	128	September 1st 1995	Plume	Plays
+106124	Bone, Vol. 4: The Dragonslayer	Jeff Smith	4.34	15142	545	168	August 1st 2006	Graphix	Sequential Art
+106125	Bone, Vol. 3: Eyes of the Storm	Jeff Smith	4.32	12336	613	174	February 1st 2006	Graphix	Sequential Art
+106126	Bone, Vol. 2: The Great Cow Race	Jeff Smith	4.28	14650	812	132	August 1st 2005	Graphix	Sequential Art
+106129	Charlie Bone and the Invisible Boy	Jenny Nimmo	3.91	22072	455	408	July 1st 2004	Orchard	Fantasy
+106133	Rule of the Bone	Russell Banks	3.88	8306	738	390	March 26th 1996	Harper Perennial	Fiction
+106134	Bone, Vol, 1: Out from Boneville	Jeff Smith	4.18	78267	2299	138	February 1st 2005	Graphix	Sequential Art
+106164	The Medical Detectives	Berton Roueché	4.17	1278	81	432	March 30th 1991	Plume	Nonfiction
+106197	Becket	Jean Anouilh	3.99	1686	91	144	September 1st 1995	Riverhead Books	Plays
+106212	National Lampoon: 1964 High School Yearbook: 39th Reunion Edition	P.J. O'Rourke	4.38	201	12	208	May 1st 2005	Rugged Land	Humor
+106244	Still Life with Oysters and Lemon: On Objects and Intimacy	Mark Doty	4.21	1546	163	70	January 19th 2002	Beacon Press	Art
+106264	Sarah, Plain and Tall	Patricia MacLachlan	3.78	77091	2817	64	2001	Houghton Mifflin	Historical
+106330	Bobos in Paradise: The New Upper Class and How They Got There	David  Brooks	3.62	3971	416	288	March 6th 2001	Simon  Schuster	Nonfiction
+106346	Little Lady, Big Apple	Hester Browne	3.70	6693	422	360	February 6th 2007	Pocket Books	Womens Fiction
+106373	The Coma	Alex Garland	3.36	8265	429	192	July 7th 2005	Faber & Faber	Fiction
+106393	The Coldest Winter Ever	Sister Souljah	4.48	32268	2441	430	February 1st 2006	Pocket Star	Fiction
+106489	The Storyteller's Daughter: A Retelling of the Arabian Nights	Cameron Dokey	3.79	11481	762	221	September 1st 2002	Simon Pulse	Fantasy
+106492	The Storyteller's Daughter: One Woman's Return to Her Lost Homeland	Saira Shah	3.82	1305	149	272	October 12th 2004	Anchor	Nonfiction
+106540	Tales of Burning Love	Louise Erdrich	3.86	2415	172	464	March 14th 1997	Harper Perennial	Fiction
+106552	The Chosen	Alex Archer	3.71	965	50	350	January 9th 2007	Worldwide Library	Fantasy
+106554	The Spider Stone	Alex Archer	3.75	1108	56	346	November 7th 2006	Gold Eagle	Fantasy
+106582	Forbidden City	Alex Archer	3.82	918	46	349	March 13th 2007	Gold Eagle	Fantasy
+106584	Solomon's Jar	Alex Archer	3.60	1355	87	346	September 12th 2006	Gold Eagle	Fantasy
+106588	Destiny	Alex Archer	3.69	2176	242	352	July 11th 2006	Harlequin Enterprises Limited	Fantasy
+106590	Lincoln	David Herbert Donald	4.16	39656	632	720	November 5th 1996	Simon  Schuster	Biography
+106646	The Doomsday Conspiracy	Sidney Sheldon	3.63	22454	792	448	1991	Doubleday Books	Fiction
+106648	Memories of Midnight	Sidney Sheldon	3.71	17928	480	404	October 1st 1991	Warner Books	Fiction
+106741	Let Me Hold You Longer	Karen Kingsbury	4.67	1014	112	32	September 1st 2004	Tyndale House Publishers	Childrens
+106807	Total Chaos	Jean-Claude Izzo	3.86	3045	317	256	November 1st 2005	Europa Editions	Mystery
+106808	Chourmo	Jean-Claude Izzo	4.12	1658	120	256	September 1st 2006	Europa Editions	Mystery
+106835	The Intelligent Investor	Benjamin Graham	4.23	85932	2224	623	February 21st 2006	Harper Business	Economics
+106859	Superman for All Seasons	Jeph Loeb	4.11	12405	460	206	September 25th 2002	DC Comics	Sequential Art
+106861	Hulk: Gray	Jeph Loeb	3.77	2195	186	168	June 29th 2011	Marvel	Sequential Art
+106882	French Women Don't Get Fat: The Secret of Eating for Pleasure	Mireille Guiliano	3.52	16178	1839	263	December 1st 2005	Random House Large Print Publishing	Nonfiction
+106888	The Big Love	Sarah Dunn	3.07	2816	351	228	June 2nd 2005	Back Bay Books	Womens Fiction
+106924	The Glamour	Christopher Priest	3.79	887	68	235	2005	Gollancz / Orion	Fantasy
+106925	The Affirmation	Christopher Priest	3.91	1748	193	213	September 1996	Touchstone / Simon & Schuster UK	Science Fiction
+106931	I Heard the Owl Call My Name	Margaret Craven	3.98	6354	758	146	January 10th 2005	Fitzhenry & Whiteside	Fiction
+106960	Las amistades peligrosas	Pierre Choderlos de Laclos	4.07	44083	1579	464	1990	Círculo de Lectores, S.A.	Classics
+107007	The League of Extraordinary Gentlemen, Vol. 2	Alan Moore	3.93	20204	627	228	September 1st 2004	WildStorm	Sequential Art
+107017	Batman: Hush, Vol. 1	Jeph Loeb	4.08	39507	328	121	August 1st 2004	DC Comics	Sequential Art
+107021	Batman: Hush, Vol. 2	Jeph Loeb	4.26	14275	239	192	November 1st 2004	DC Comics	Sequential Art
+107023	Batman: Under the Hood, Volume 2	Judd Winick	4.24	5324	45	192	June 7th 2006	DC Comics	Sequential Art
+107025	Batman: Under the Hood, Volume 1	Judd Winick	4.19	8508	78	176	November 1st 2005	DC Comics	Sequential Art
+107029	The Batman Chronicles, Vol. 1	Bill Finger	4.09	14985	118	192	April 1st 2005	DC Comics	Sequential Art
+107032	Batman: A Death in the Family	Jim Starlin	4.08	26154	641	144	December 1st 1995	DC Comics	Sequential Art
+107082	Batman: Tales of the Demon	Dennis O'Neil	3.92	1355	60	208	February 23rd 1991	DC Comics	Sequential Art
+107105	Batman: No Man's Land	Greg Rucka	4.16	3424	195	468	March 1st 2001	Pocket Star	Sequential Art
+107195	I Kissed Dating Goodbye: A New Attitude Toward Relationships and Romance	Joshua Harris	3.54	20093	924	221	April 2nd 2003	Multnomah Books	Christian
+107288	Sixpence in Her Shoe	Phyllis McGinley	3.91	82	19	256	September 1964	Macmilllan Publishing Company	Nonfiction
+107291	Needful Things	Stephen King	3.92	214799	4219	790	1992	Hodder & Stoughton Ltd	Horror
+107300	Trustee from the Toolroom	Nevil Shute	4.25	3414	437	305	July 1st 2002	House of Stratus	Fiction
+107301	A Town Like Alice	Nevil Shute	4.14	49850	3608	359	2000	House of Stratus	Fiction
+107312	Angels: God's Secret Agents	Billy Graham	4.15	2763	221	175	September 1st 1975	Doubleday Books	Christian
+107315	Pied Piper	Nevil Shute	4.22	3391	371	246			Fiction
+107318	The Far Country	Nevil Shute	3.99	1811	159	362	July 1st 2002	House of Stratus	Fiction
+107338	The Macarthur Study Bible: New American Standard Bible	Anonymous	4.76	726	39	2043	March 1st 2006	Nelson Bibles	Christian
+107406	The Great Escape	Paul Brickhill	4.25	8053	405	288	November 2000	Cassell Military	History
+107456	Spring Moon: A Novel of China	Bette Bao Lord	3.99	2724	154	480	April 27th 2004	Harper Perennial	Historical
+107469	The Five Books of Moses: Genesis, Exodus, Leviticus, Numbers, Deuteronomy: Genesis, Exodus, Leviticus, Numbers, Deuteronomy : A New Translation with Introductions, Commentary: 1	Everett Fox	4.40	317	30	1056	February 8th 2000	Schocken	Religion
+107480	The Outside Man	Richard North Patterson	3.63	1525	66	294	June 23rd 1997	Ballantine Books	Mystery
+107499	Refiner's Fire	Mark Helprin	3.98	1075	58	560	June 1st 2005	Mariner Books	Fiction
+107611	Elegance	Kathleen Tessaro	3.41	4572	447	390	January 8th 2019	Harper Paperbacks	Fiction
+107664	Raven's Gate	Anthony Horowitz	3.90	24015	1438	270	October 2006	Scholastic	Fantasy
+107666	Ghost Roads	Christopher Golden	4.01	1107	23	370	March 1st 1999	Pocket Books	Fiction
+107669	Nightrise	Anthony Horowitz	4.04	13334	428	365	May 1st 2007	Scholastic Press	Fantasy
+107670	Evil Star	Anthony Horowitz	3.98	16583	540	318	June 1st 2006	Scholastic Press	Fantasy
+107769	Murder List	Julie Garwood	4.03	15010	583	425	March 1st 2005	Ballantine Books	Romance
+107770	The Secret	Julie Garwood	4.26	44262	1805	379	May 1st 1992	Pocket Books	Romance
+107771	Slow Burn	Julie Garwood	4.04	14610	423	424	December 26th 2006	Ballantine	Romance
+107772	The Prize	Julie Garwood	4.22	26945	757	408	August 1st 1991	Pocket Star Books	Romance
+107773	Mercy	Julie Garwood	4.13	18231	549	454	August 5th 2002	Simon & Schuster	Romance
+107774	Honor's Splendour	Julie Garwood	4.22	28177	990	374	April 28th 1991	Pocket Books	Romance
+107775	Castles	Julie Garwood	4.13	14915	458	354	November 4th 1996	Pocket Books	Romance
+107776	Ransom	Julie Garwood	4.33	30310	1345	546	December 27th 2002	Pocket Books	Romance
+107777	Prince Charming	Julie Garwood	4.07	12990	447	533	February 1st 1995	Pocket Books	Romance
+107778	The Wedding	Julie Garwood	4.17	29083	1081	384	January 1st 2003	Pocket Books	Romance
+107779	The Bride	Julie Garwood	4.25	56143	2439	352	May 21st 2002	Atria Books	Romance
+107781	The Gift	Julie Garwood	4.17	17753	569	373	January 1st 1991	Pocket Books	Romance
+107783	The Lion's Lady	Julie Garwood	4.17	21000	769	360	March 1st 1991	Pocket Books	Romance
+107786	Guardian Angel	Julie Garwood	4.15	13459	401	375	May 1st 1990	Pocket Books	Romance
+107789	Heartbreaker	Julie Garwood	4.04	24321	796	520	December 1st 2004	Pocket Books	Romance
+107790	Killjoy	Julie Garwood	4.02	13759	507	448	September 27th 2005	Ballantine Books	Romance
+107791	Castles / The Lion's Lady	Julie Garwood	4.37	2608	39	360	November 1st 2005	Pocket Books	Romance
+107792	Gentle Warrior	Julie Garwood	4.06	15071	375	309	December 1st 1990	Pocket Books	Romance
+107796	Rebellious Desire	Julie Garwood	3.97	10093	329	312	January 1st 1991	Pocket Books	Romance
+107799	Οι γάμοι του Κάδμου και της Αρμονίας	Roberto Calasso	4.25	1822	189	416	October 2005	Καστανιώτης	Fantasy
+107821	Bridge of Sighs	Richard Russo	3.77	22415	2652	528	October 1st 2007	Alfred A. Knopf	Fiction
+107896	Starter for Ten	David Nicholls	3.61	19800	1309	338	January 23rd 2007	Villard	Fiction
+107923	The Cheerleader	Ruth Doan MacDougall	4.25	465	61	288	January 1st 2010	Frigate Books	Fiction
+107943	Snow	Maxence Fermine	3.76	2523	245	112	December 24th 2002	Atria	Fiction
+107966	Passion of Michel Foucault	James  Miller	3.90	301	34	492	April 14th 2000	Harvard University Press	Biography
+107974	Still She Haunts Me	Katie Roiphe	3.39	423	67	240	October 1st 2002	Delta	Fiction
+108051	Coldheart Canyon	Clive Barker	3.68	7413	451	686	November 5th 2002	HarperTorch	Horror
+108064	Books of Blood, Volumes 4-6	Clive Barker	4.29	3641	77	452	February 1st 1988	Sphere	Horror
+108067	Ava's Man	Rick Bragg	4.24	6162	576	259	August 13th 2002	Vintage	Nonfiction
+108077	The Watsons Go to Birmingham - 1963	Christopher Paul Curtis	3.97	60584	4879	224	December 12th 2000	Laurel Leaf	Historical
+108119	Final Harvest: Emily Dickinson's Poems	Emily Dickinson	4.29	1824	65	331		Little, Brown & Co.	Poetry
+108171	Coriolanus	William Shakespeare	3.73	13079	848	208	January 29th 2004	Oxford University Press, USA	Plays
+108202	The Diaries of Adam and Eve	Mark Twain	3.91	13805	1461	95	July 1st 2002	Hesperus Press	Classics
+108218	Men Without Women	Ernest Hemingway	3.64	9944	699	153	2004	Scribner	Fiction
+108220	Kingdom of Fear: Loathsome Secrets of a Star-Crossed Child in the Final Days of the American Century	Hunter S. Thompson	3.95	8717	322	384	November 6th 2003	Simon  Schuster	Nonfiction
+108314	Numerology and the Divine Triangle	Dusty Bunker	4.23	382	26	288	January 6th 1997	Schiffer Publishing	Pseudoscience
+108315	Twilight	William Gay	3.95	2425	344	224	October 20th 2006	MacAdam Cage	Horror
+108359	Eveline	James Joyce	3.60	1475	116	31	September 1st 1989	Creative Education	Short Stories
+108385	Dark Gold	Christine Feehan	4.17	24192	675	382	March 1st 2007	Love Spell	Romance
+108386	Sharpe's Gold	Bernard Cornwell	4.09	9933	226	256	August 3rd 2004	Signet	Historical
+108395	The Cat Who Went Bananas	Lilian Jackson Braun	3.67	4724	283	292	December 27th 2005	Jove	Mystery
+108422	The Race Beat: The Press, the Civil Rights Struggle, and the Awakening of a Nation	Gene Roberts	4.21	1468	138	528	October 31st 2006	Knopf	History
+108435	Prison Writings: My Life Is My Sun Dance	Leonard Peltier	4.20	1870	118	272	June 16th 2000	St. Martin's Griffin	Nonfiction
+108449	The 100: A Ranking of the Most Influential Persons in History	Michael H. Hart	3.98	5992	569	556	June 1st 2000	Citadel	History
+108490	The Conquest of New Spain	Bernal Díaz del Castillo	4.11	2584	226	416	July 26th 1973	Penguin Classics	History
+108540	The Dark Room	R.K. Narayan	3.65	1244	89	214	October 1st 1994	University Of Chicago Press	Fiction
+108565	The Collection	Bentley Little	3.93	3305	154	453	December 2nd 2005	Signet Book	Horror
+108572	The Ignored	Bentley Little	3.83	1901	113	429	June 1st 1997	A Signet Book	Horror
+108590	Connect: 12 Vital Ties That Open Your Heart, Lengthen Your Life, and Deepen Your Soul	Edward M.  Hallowell	3.93	56	9	352	April 1st 2001	Gallery Books	Psychology
+108713	Pimp: The Story of My Life	Iceberg Slim	3.99	8906	802	311	June 1st 2002	Payback Pr	Nonfiction
+108845	In Trouble Again: A Journey Between the Orinoco and the Amazon	Redmond O'Hanlon	3.97	1443	66	288	April 14th 1990	Vintage	Travel
+108914	In Search of King Solomon's Mines	Tahir Shah	3.79	581	63	240	September 1st 2004	Arcade Publishing	Travel
+108924	The New Jerusalem Bible	Anonymous	4.37	425	54	1424	March 16th 1999	Image	Religion
+108925	Ô Jérusalem	Larry Collins	4.31	3362	304	924	January 18th 2006	Distribooks Inc.	History
+108932	Jerusalem Interlude	Bodie Thoene	4.35	4454	118	400	April 1st 2005	Tyndale House Publishers	Historical
+108942	Bad Luck and Trouble	Lee Child	4.18	73590	2954	378	May 15th 2007	Delacorte Press	Thriller
+108979	Ivy and Bean and the Ghost That Had to Go	Annie Barrows	4.09	5026	303	128	July 5th 2007	Chronicle Books	Childrens
+108980	Ivy and Bean	Annie Barrows	3.94	14426	1261	120	May 3rd 2007	Chronicle Books	Childrens
+108981	Ivy and Bean Break the Fossil Record	Annie Barrows	4.12	4868	204	132	August 31st 2007	Chronicle Books	Fiction
+108982	Ivy and Bean Take Care of the Babysitter	Annie Barrows	4.20	4643	173	122	April 17th 2008	Chronicle Books	Childrens
+109156	Molecular Gastronomy: Exploring the Science of Flavor	Hervé This	3.88	962	62	377	January 4th 2006	Columbia University Press	Food and Drink
+109198	Delhi	Khushwant Singh	3.80	2866	244	391	May 1st 1990	Penguin Books	Fiction
+109307	The Shadow Lines	Amitav Ghosh	3.85	6969	472	246	May 3rd 2005	Mariner Books	Fiction
+109326	Cuckold	Kiran Nagarkar	4.15	1472	180	609	January 1st 1997	Harper Collins Publishers	Fiction
+109328	Ravan & Eddie	Kiran Nagarkar	3.72	920	79	376	January 26th 1995	Viking	Fiction
+109335	Hullabaloo in the Guava Orchard	Kiran Desai	3.45	5245	476	224	May 18th 1999	Anchor	Fiction
+109367	Survivor In Death	J.D. Robb	4.40	26618	873	360	September 1st 2005	Berkley Books	Mystery
+109421	Wireless Communications: Principles and Practice	Theodore S. Rappaport	3.96	182	13	736	January 10th 2002	Prentice Hall	Textbooks
+109487	Blood and Thunder: An Epic of the American West	Hampton Sides	4.21	12595	1136	460	October 3rd 2006	Doubleday	History
+109498	This I Believe: The Personal Philosophies of Remarkable Men and Women	Jay Allison	3.85	5909	898	282	October 3rd 2006	Henry Holt & Company	Nonfiction
+109508	The Veteran	Frederick Forsyth	3.90	3396	191	368	February 17th 2003	St. Martin's Paperbacks	Fiction
+109510	The Negotiator	Frederick Forsyth	3.99	11370	236	512	March 1990	Bantam	Fiction
+109512	The Fist of God	Frederick Forsyth	4.04	11146	283	573	July 1st 1995	Bantam	Fiction
+109514	No Comebacks	Frederick Forsyth	3.92	3725	181	320	March 1983	Bantam	Fiction
+109515	How I Raised Myself From Failure to Success in Selling	Frank Bettger	4.27	14352	342	192	April 9th 1992	Touchstone	Business
+109520	I Am Not Myself These Days	Josh Kilmer-Purcell	3.97	12436	960	305	February 7th 2006	Harper Perennial	Autobiography
+109523	Leave Myself Behind	Bart Yates	4.09	2481	163	256	April 1st 2004	Kensington	LGBT
+109580	Where Dreams Begin	Lisa Kleypas	3.98	12348	726	373	August 1st 2000	Avon	Romance
+109692	The Three Fat Men	Yury Olesha	4.01	2693	44	152	July 1st 2001	University Press of the Pacific	Cultural
+109713	City of Night	John Rechy	3.91	3558	235	400	January 13th 1994	Grove Press	Fiction
+109714	Bodies and Souls: A Novel	John Rechy	3.72	78	10	432	September 21st 2001	Grove Press	Fiction
+109715	The Miraculous Day of Amalia Gómez	John Rechy	3.72	214	16	224	September 21st 2001	Grove Press	Fiction
+109726	The Beautiful Room Is Empty	Edmund White	3.94	2761	155	240	October 4th 1994	Vintage	Fiction
+109774	Science and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics	Alfred Korzybski	4.39	330	31	806	1994	Institute of General Semantics	Philosophy
+109785	Sierra Jensen Collection, Vol. 1	Robin Jones Gunn	4.33	1609	62	432	June 1st 2006	Multnomah Books	Christian Fiction
+109790	Strangely Like War: The Global Assault on Forests	Derrick Jensen	4.02	282	21	160	October 1st 2003	Chelsea Green Publishing Company	Nonfiction
+109794	PopCo	Scarlett Thomas	3.73	5327	582	512	October 3rd 2005	Mariner Books	Fiction
+109830	Man's Fate	André Malraux	3.76	4498	260	368	February 19th 1990	Vintage	Fiction
+109889	Blaze	Susan Johnson	3.99	1101	46	486	August 1st 1992	Bantam	Romance
+109901	The Cold Dish	Craig Johnson	4.13	29784	3646	354	March 28th 2006	Penguin Books	Mystery
+109946	Season of Blood: A Rwandan Journey	Fergal Keane	4.14	670	52	224	April 25th 1996	Penguin	Cultural
+109961	Damage	Josephine Hart	3.68	4263	522	186	August 10th 2010	Open Road Media Integrated Media	Fiction
+110018	Run with the Horsemen	Ferrol Sams	4.31	3380	242	432	July 3rd 1984	Penguin Books	Fiction
+110076	The Pale Blue Eye	Louis Bayard	3.75	4546	559	432	May 23rd 2006	Harper	Mystery
+110077	A Pair of Blue Eyes	Thomas Hardy	3.77	7102	395	374	November 3rd 2005	Oxford University Press	Classics
+110090	True History of the Kelly Gang	Peter Carey	3.82	19865	1154	384	December 4th 2001	Vintage	Fiction
+110248	Blackfoot Physics: A Journey into the Native American Worldview	F. David Peat	4.24	140	19	352	December 23rd 2005	Weiser Books	Nonfiction
+110265	Mountain Man	Vardis Fisher	4.11	1304	115	351	January 1st 1965	Caxton Press	Westerns
+110331	The Federalist Papers	Alexander Hamilton	4.08	35747	866	688	April 1st 2003	Signet Classics	History
+110349	Out on a Limb	Shirley MacLaine	4.07	7655	155	368	October 1st 1986	Bantam	Nonfiction
+110382	Splendid	Julia Quinn	3.90	16181	776	396	August 26th 2003	Avon	Romance
+110384	Romancing Mister Bridgerton	Julia Quinn	4.15	55263	3421	370	July 2nd 2002	Avon	Romance
+110386	To Sir Phillip, With Love	Julia Quinn	3.88	39045	2244	372	August 25th 2009	Avon	Romance
+110387	The Secret Diaries of Miss Miranda Cheever	Julia Quinn	3.91	32654	1624	373	June 26th 2007	Avon	Romance
+110388	On the Way to the Wedding	Julia Quinn	3.84	27297	1579	371	June 27th 2006	Avon	Romance
+110389	Brighter Than the Sun	Julia Quinn	3.89	11129	499	384	July 27th 2004	Avon	Romance
+110391	The Duke and I	Julia Quinn	3.97	109381	7782	384	June 27th 2006	Avon Books	Romance
+110393	It's in His Kiss	Julia Quinn	4.03	33523	1739	384	June 28th 2005	Avon Books	Romance
+110394	Dancing at Midnight	Julia Quinn	3.78	11467	525	375	August 25th 2009	Avon	Romance
+110395	To Catch an Heiress	Julia Quinn	3.90	13440	631	377	July 30th 2002	Avon Books	Romance
+110396	When He Was Wicked	Julia Quinn	4.03	39314	2245	368	June 29th 2004	Avon	Romance
+110397	How to Marry a Marquis	Julia Quinn	4.01	15947	686	375	April 9th 1999	Avon	Romance
+110428	I'm Not Scared	Niccolò Ammaniti	3.84	17502	1174	200	March 9th 2004	Anchor	Fiction
+110444	The Lake House	James Patterson	3.80	35302	1255	384	April 20th 2005	Grand Central Publishing	Fiction
+110457	Nadja	André Breton	3.59	8205	519	160	January 11th 1994	Grove Press	Fiction
+110494	Living Dead in Dallas	Charlaine Harris	3.96	240238	7003	291	April 1st 2004	Orbit	Fantasy
+110535	The Rules of Survival	Nancy Werlin	3.98	11444	1111	259	September 7th 2006	Dial Books	Young Adult
+110692	The Redemption of Althalus	David Eddings	3.84	15175	524	800	October 30th 2001	Del Rey	Fantasy
+110694	The Seeress of Kell	David Eddings	4.09	45694	449	452	August 13th 1992	Corgi	Fantasy
+110737	Seabiscuit: An American Legend	Laura Hillenbrand	4.20	148846	4466	457	July 1st 2003	Ballantine Books	Nonfiction
+110795	Catechism of the Catholic Church	Pope John Paul II	4.43	9097	262	864	April 15th 1995	Image	Religion
+110863	Obsessive-Compulsive Disorders: A Complete Guide to Getting Well and Staying Well	Fred Penzel	4.11	36	2	448	October 19th 2000	Oxford University Press, USA	Nonfiction
+110871	Thérèse Raquin	Émile Zola	3.72	21872	1651	201	July 29th 2004	Penguin Books	Classics
+110896	Dancer	Colum McCann	3.93	4264	497	336	February 1st 2004	Picador	Fiction
+110985	The Great Shark Escape	Jennifer   Johnston	4.42	3654	34	86	September 1st 2001	Scholastic Paperbacks	Science
+110996	House Made of Dawn	N. Scott Momaday	3.67	6910	545	198	May 2nd 2000	McGraw-Hill Education	Fiction
+111011	Darkness Before Dawn	Sharon M. Draper	4.30	5095	431	288	July 1st 2002	Simon Pulse	Young Adult
+111012	Princess at Sea	Dawn Cook	3.85	2667	125	344	July 25th 2006	Ace	Fantasy
+111017	Forgotten Truth	Dawn Cook	4.04	2738	96	384	November 25th 2003	Ace Books	Fantasy
+111021	Dawn	Erin Hunter	4.33	26711	604	335	November 14th 2006	HarperCollins	Fantasy
+111044	Stop Pretending: What Happened When My Big Sister Went Crazy	Sonya Sones	3.90	4747	575	145	July 12th 2016	HarperTeen	Young Adult
+111048	A Sport of Nature	Nadine Gordimer	3.75	575	54	400	1988	Penguin	Fiction
+111050	July's People	Nadine Gordimer	3.53	6460	539	160	July 29th 1982	Penguin Books	Fiction
+111085	No Longer at Ease	Chinua Achebe	3.86	8130	646	196	September 16th 1994	Anchor	Fiction
+111126	Hateship, Friendship, Courtship, Loveship, Marriage: Stories	Alice Munro	4.05	16777	1617	323	October 8th 2002	Vintage	Short Stories
+111180	Perfect Match	Jodi Picoult	3.95	65734	3222	384	February 4th 2003	Washington Square Press	Fiction
+111185	Physics and Philosophy: The Revolution in Modern Science	Werner Heisenberg	4.02	2315	115	176	August 3rd 2000	Penguin Classics	Science
+111218	Innocent Traitor	Alison Weir	3.95	31241	1822	402	February 27th 2007	Ballantine Books	Historical
+111220	Eleanor of Aquitaine: A Life	Alison Weir	3.90	15528	664	496	April 3rd 2001	Ballantine Books	History
+111285	The Annotated Shakespeare: The Complete Three Volume Set	William Shakespeare	4.18	260	8	3	December 12th 1988	Clarkson Potter	Plays
+111300	To a God Unknown	John Steinbeck	3.94	9683	765	240	November 30th 2000	Penguin Classics	Fiction
+111306	Jacob	Jacquelyn Frank	4.00	21797	982	376	December 1st 2006	Zebra	Romance
+111312	The World's Shortest Stories of Love and Death	Steve Moss	3.80	199	26	224	March 22nd 2000	Running Press Adult	Short Stories
+111332	Into the Wild	Erin Hunter	4.30	77195	6200	288	January 6th 2004	HarperTrophy	Fantasy
+111388	Jesus Among Other Gods: The Absolute Claims of the Christian Message	Ravi Zacharias	4.21	10317	403	208	February 6th 2002	Thomas Nelson	Christian
+111402	Magic Tree House: #1-4	Mary Pope Osborne	4.13	3611	154	80	May 29th 2001	Random House Books for Young Readers	Childrens
+111411	God and the Big Bang (1st Edition): Discovering Harmony Between Science & Spirituality	Daniel C. Matt	4.18	73	8	216	March 1st 1998	Jewish Lights Publishing	Religion
+111450	Quidditch Through the Ages	Kennilworthy Whisp	3.83	153258	5489	56	June 1st 2001	Scholastic	Fantasy
+111516	Come, Tell Me How You Live	Agatha Christie Mallowan	4.12	3156	376	222	March 3rd 1981	Pocket Books	Nonfiction
+111537	Making Movies	Sidney Lumet	4.24	5480	375	240	March 19th 1996	Vintage	Culture
+111563	God in the Dock: Essays on Theology and Ethics	C.S. Lewis	4.29	6873	271	346	March 24th 1972	William B. Eerdmans Publishing Company	Religion
+111626	The Remarkable Journey of Prince Jen	Lloyd Alexander	3.91	1884	119	273	November 18th 2004	Puffin Books	Fantasy
+111646	Reindeer Moon	Elizabeth Marshall Thomas	3.96	1597	91	393	September 1st 1991	Pocket Books	Historical
+111734	The Iceman Cometh	Eugene O'Neill	3.95	7654	255	236	August 28th 2006	Yale University Press	Plays
+111831	The Last Convertible	Anton Myrer	4.23	1803	144	624	May 1st 2002	Harper Perennial	Fiction
+111879	Collected Poems	Philip Larkin	4.22	8119	241	240	April 1st 2004	Farrar, Straus and Giroux	Poetry
+111902	Citizen Cyborg: Why Democratic Societies Must Respond to the Redesigned Human of the Future	James Hughes	3.85	106	5	320	October 27th 2004	Basic Books	Science
+112074	Checkmate	Dorothy Dunnett	4.70	3266	246	581	September 2nd 1997	Vintage	Historical
+112075	The Spring of the Ram	Dorothy Dunnett	4.40	2550	116	496	March 30th 1999	Vintage	Historical
+112077	The Game of Kings	Dorothy Dunnett	4.14	8301	1115	543	April 29th 1997	Vintage	Historical
+112078	Niccolò Rising	Dorothy Dunnett	4.27	3921	332	470	March 30th 1999	Vintage	Historical
+112079	Scales of Gold	Dorothy Dunnett	4.47	2127	97	544	June 1st 1999	Vintage	Historical
+112080	Queens' Play	Dorothy Dunnett	4.46	4081	294	432	April 29th 1997	Vintage	Historical
+112081	The Unicorn Hunt	Dorothy Dunnett	4.42	1873	79	656	June 1st 1999	Vintage	Historical
+112083	Race of Scorpions	Dorothy Dunnett	4.42	2220	96	560	March 30th 1999	Vintage	Historical
+112110	Lyrical Ballads	William Wordsworth	3.94	10778	183	118	June 2006	Penguin Classics	Poetry
+112136	The Major Works	William Wordsworth	4.04	6979	60	784	July 27th 2000	Oxford University Press	Poetry
+112139	The Works of William Wordsworth (Wordsworth Collection)	William Wordsworth	4.17	1724	35	1120	April 1st 1998	Wordsworth Editions Ltd	Poetry
+112147	The Memory of Running	Ron McLarty	3.76	11335	1548	384	December 27th 2005	Penguin Books	Fiction
+112191	Garbage Land: On the Secret Trail of Trash	Elizabeth Royte	3.76	1567	299	294	August 29th 2006	Back Bay Books	Nonfiction
+112200	Selected Poems	Emily Dickinson	4.17	22684	539	256	February 6th 1999	Value Proprietary	Poetry
+112204	The Complete Poems of Emily Dickinson	Emily Dickinson	4.23	78976	1148	716	January 30th 1976	Little, Brown and Company	Poetry
+112247	The Art of Computer Programming, Volume 1: Fundamental Algorithms	Donald Ervin Knuth	4.37	1730	45	672	July 7th 1997	Addison-Wesley	Computer Science
+112274	The Whisper of the River	Ferrol Sams	4.30	2007	86	528	February 4th 1986	Penguin Books	Fiction
+112277	When All the World Was Young	Ferrol Sams	4.37	1287	54	610	December 26th 2001	Longstreet Press	Fiction
+112286	The Lost: A Search for Six of Six Million	Daniel Mendelsohn	4.08	5435	681	512	September 19th 2006	Harper	Nonfiction
+112292	Dauntless	Jack Campbell	3.95	27660	1581	293	July 2006	Ace Books	Science Fiction
+112322	Saint Maybe	Anne Tyler	3.88	15999	759	337	August 27th 1996	Ballantine Books	Fiction
+112472	Robert Kennedy and His Times	Arthur M. Schlesinger Jr.	4.26	2297	74	1088	June 3rd 2002	Mariner Books	Biography
+112480	Il visconte dimezzato	Italo Calvino	3.86	15215	700	143	January 31st 1993	Mondadori	Classics
+112507	Just as I Am	Billy Graham	4.28	4874	177	784	March 3rd 1999	HarperOne	Biography
+112510	The Vicar of Wakefield	Oliver Goldsmith	3.48	9161	513	197	June 15th 2006	Oxford University Press	Classics

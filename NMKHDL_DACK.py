@@ -76,9 +76,9 @@ def get_book_ids():
 # df.to_csv('book_ids.csv', index=False)
 # -
 
-def collect_books():
+def collect_books(filename):
     # mở file để ghi dữ liệu thu thập được
-    f = open('books.csv', 'w', encoding='utf-8')
+    f = open(filename, 'w', encoding='utf-8')
     f.write('book_id\ttitle\tauthors\taverage_rating\tratings_count\ttext_review\tnum_pages\tpublication\tpublisher\tgenre\n')
     
     # lấy danh sách các sách có thể thu thập dữ liệu
@@ -86,13 +86,13 @@ def collect_books():
     disallow_book_id = get_disallow_book_ids()    
     book_ids = list(set(book_ids) - set(disallow_book_id))
     book_ids.sort()
-    i = 0
+    i = 7000
     
     headers = {'User-Agent': 'Mozilla/5.0'}
     # bắt đầu parse book
     while i < 10000:
         url = f'https://www.goodreads.com/book/show/{book_ids[i]}'
-        respone = requests.get(url, headers=headers)
+        respone = requests.get(url)
         
         if respone.ok == True:
             soup = BeautifulSoup(respone.content, 'html.parser')
@@ -117,17 +117,16 @@ def collect_books():
                 i += 1
         else:
             print(f'respone false {i}: {url}')
-            time.sleep(1)
+            time.sleep(5)
     return
 
 
-collect_books()
+# +
+# collect_books('test.csv')
+# -
 
 books = pd.read_csv('books.csv', sep='\t')
-books.head()
-
-respone = requests.get('https://www.goodreads.com/book/show/2', headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36'})
-print(respone)
+books.shape
 
 # ## Khám phá dữ liệu
 
