@@ -198,6 +198,17 @@ fig2 = plt.figure(figsize = (8,10))
 ax2 = fig2.gca()
 df_normalized.boxplot(ax = ax2)
 plt.show()
+
+# +
+genre = df['genre'].value_counts()
+plot_dims = (15, 20)
+fig, ax = plt.subplots(figsize=plot_dims)
+sns.barplot(genre, genre.index)
+
+for i in ax.patches:
+    ax.text(i.get_width()+.3, i.get_y()+0.5, str(i.get_width()), fontsize = 12, color = 'k')
+    
+plt.show()
 # -
 
 # ## Phân tích dữ liệu
