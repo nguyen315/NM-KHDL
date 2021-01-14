@@ -146,7 +146,7 @@ def collect_books(filename):
 
 
 # +
-# collect_books('test.csv')
+# collect_books('books.csv')
 # -
 
 books = pd.read_csv('books.csv', sep='\t')
@@ -274,12 +274,6 @@ X_df
 
 train_X_df, test_X_df, train_y_sr, test_y_sr = train_test_split(X_df, y_sr, test_size=0.2, 
                                                               stratify=y_sr, random_state=0)
-
-# +
-# tách tiếp tập train thành train và validation
-# train_X_df, val_X_df, train_y_sr, val_y_sr = train_test_split(temp_X_df, temp_y_sr, test_size=0.2, 
-#                                                               stratify=temp_y_sr, random_state=0)
-# -
 
 # ### Xử lý trên tập huấn luyện
 
