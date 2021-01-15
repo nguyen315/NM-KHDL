@@ -14,15 +14,10 @@
 #     name: python3
 # ---
 
-# # Nhập môn Khoa Học Dữ Liệu - Nhóm 25
-#
-# 18120484 - Hồ Minh Nguyên\
-# 18120491 - Diệp Đại Thiện Nhân
-
 # ## Câu hỏi cần trả lời
 
 # - Đọc sách là một cách tốt để tiếp thu kiến thức mới và giải trí. Khác với xem phim, việc đọc sách tốn nhiều thời gian và công sức hơn, vì vậy chọn được một quyển sách tốt để đọc là cần thiết để tránh tốn thời gian vào những quyển sách không hay
-# - Ở đây, xác định quyển sách là "great" nếu rating của nó thuộc 20% điểm cao nhất
+# - Ở đây, xác định quyển sách là "great" nếu rating của nó thuộc 25% điểm cao nhất
 
 # ## Thu thập dữ liệu
 
@@ -154,6 +149,7 @@ books.shape
 
 # ## Khám phá dữ liệu
 
+df = pd.read_csv('books.csv', sep='\t')
 df.info()
 
 # Dữ liệu có giá trị thiếu (cột "publication" có 8 giá trị thiếu và cột "publisher" có 7 giá trị thiếu)
@@ -178,8 +174,6 @@ df[numerical].boxplot(ax = ax)
 plt.show()
 
 # Có những cuốn sách được nhiều lượt đánh giá (trên 1,000,000 đánh giá), cột "average_rating" có giá trị rất nhỏ (0-5), nó làm cho biểu đồ khó nhìn thấy những thông tin khác, . Vậy ta sẽ scale dữ liệu lại để dễ nhìn hơn.
-
-
 
 # +
 # Create varsToNormalize, where all the varsToNormalize values are treated as floats
@@ -350,13 +344,13 @@ preprocess_pipeline = make_pipeline(ColAdderDropper(num_top_authors = 150, num_t
                                     preprocess_column_transformer, StandardScaler(with_mean=False))
 preprocessed_train_X = preprocess_pipeline.fit_transform(train_X_df)
 
+# ### Huấn luyện trên mô hình MLPClassifier
+
 full_pipeline = make_pipeline(ColAdderDropper(num_top_authors = 150, num_top_genres = 30), 
                               preprocess_column_transformer, 
                               StandardScaler(with_mean=False),
-                              MLPClassifier(hidden_layer_sizes=(20), activation='tanh', solver='lbfgs', random_state=0, max_iter=3000))
+                              MLPClassifier(hidden_layer_sizes=(100), activation='tanh', solver='adam', random_state=0, max_iter=3000))
 full_pipeline
-
-# #### Dùng KFold để chia tập train thành train data và validation data
 
 # +
 # thử nghiệm model
@@ -378,7 +372,7 @@ for train_indices, test_indices in kf.split(train_X_df):
                 full_pipeline.set_params(coladderdropper__num_top_authors=num_top_authors, 
                                          coladderdropper__num_top_genres=num_top_genres, 
                                          mlpclassifier__alpha=alpha)
-
+       
                 full_pipeline.fit(train_X_df.iloc[train_indices], train_y_sr.iloc[train_indices])
                 train_err = (1 - full_pipeline.score(train_X_df.iloc[train_indices], train_y_sr.iloc[train_indices])) * 100
                 val_err = (1 - full_pipeline.score(train_X_df.iloc[test_indices], train_y_sr.iloc[test_indices])) * 100
@@ -394,15 +388,68 @@ for train_indices, test_indices in kf.split(train_X_df):
                         
 'Finish!'
 # -
-# ### Huấn luyện mô hình với các thông số best tìm được ở trên
+# Kết tốt nhất trên tập validation
+best_val_err
 
+print('best_alpha:',best_alpha)
+print('best_num_top_authors', best_num_top_authors)
+print('best_num_top_genres', best_num_top_genres)
+
+# ### Thử nghiệm trên SVC model
+
+from sklearn.svm import SVC
+full_pipeline2 = make_pipeline(ColAdderDropper(num_top_authors = 150, num_top_genres = 30), 
+                              preprocess_column_transformer, 
+                              StandardScaler(with_mean=False),
+                              SVC(kernel='linear'))
+full_pipeline2
+
+# +
+# thử nghiệm model
+kf = KFold(n_splits=5)
+
+train_errs = []
+val_errs = []
+
+num_top_authors_s = [100, 150, 200, 250, 300]
+num_top_genres_s = [30, 40, 50, 60]
+
+best_val_err2 = float('inf'); best_num_top_authors2 = None; best_num_top_genres2 = None;
+for train_indices, test_indices in kf.split(train_X_df):
+    for num_top_authors in num_top_authors_s:
+        for num_top_genres in num_top_genres_s:
+            # YOUR CODE HERE
+            full_pipeline2.set_params(coladderdropper__num_top_authors=num_top_authors, 
+                                     coladderdropper__num_top_genres=num_top_genres)
+
+            full_pipeline2.fit(train_X_df.iloc[train_indices], train_y_sr.iloc[train_indices])
+            train_err = (1 - full_pipeline2.score(train_X_df.iloc[train_indices], train_y_sr.iloc[train_indices])) * 100
+            val_err = (1 - full_pipeline2.score(train_X_df.iloc[test_indices], train_y_sr.iloc[test_indices])) * 100
+
+            if (val_err < best_val_err2):
+                best_val_err2 = val_err
+                best_num_top_authors2 = num_top_authors
+                best_num_top_genres2 = num_top_genres
+
+                        
+'Finish!'
+# -
+
+print('best_num_top_authors', best_num_top_authors2)
+print('best_num_top_genres', best_num_top_genres2)
+
+# Kết quả tốt nhất trên tập validation
+best_val_err2
+
+# ### Chọn mô hình tốt nhất và tính ra kết quả
+
+
+# Chọn mô hình MLPClassifier vì có kết quả trên tập validation tốt hơn
 
 full_pipeline.set_params(coladderdropper__num_top_authors=best_num_top_authors, 
                                          coladderdropper__num_top_genres=best_num_top_genres, 
                                          mlpclassifier__alpha=best_alpha)
-
 full_pipeline.fit(train_X_df, train_y_sr)
 
-predict_sr = full_pipeline.predict(test_X_df)
-
+# độ lỗi trên tập test
 1 - full_pipeline.score(test_X_df, test_y_sr)
